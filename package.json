@@ -1,6 +1,6 @@
 {
   "name": "@aicupa/plugin-anime-border",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Romantic Anime Magical Glowing Border with Sakura Floating Drops",
   "view": "./view",
   "publishConfig": {
