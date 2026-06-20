@@ -1,15 +1,14 @@
 {
-  "name": "@aicupa/plugin-template",
+  "name": "@aicupa/plugin-anime-border",
   "version": "1.0.0",
-  "description": "aicupa plugin template",
-  "main": "./service",
+  "description": "Romantic Anime Magical Glowing Border with Sakura Floating Drops",
+  "main": "",
   "view": "./view",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
-  "license": "MIT",
-  "devDependencies": {
-    "@aicupa/api": "^1.0.4"
-  }
+  "viewjs": "./inject.js",
+  "author": "Muhai",
+  "license": "MIT"
 }
